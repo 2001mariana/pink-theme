@@ -17,5 +17,11 @@
                 "path": "./themes/pink theme-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/2001mariana/pink-theme"
+    },
+    "publisher": "MarianaLuiza",
+    "keywords": ["pink", "theme", "colors", "purple"]
 }
