@@ -1,7 +1,7 @@
 {
     "name": "cute-theme-pink",
-    "displayName": "Pink World Theme",
-    "description": "A theme for peoples love pink or purple",
+    "displayName": "Pink-theme",
+    "description": "um tema para pessoas apaixonadas por rosa",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.54.0"
@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Pink World Theme",
+                "label": "pink theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/pink theme-color-theme.json"
             }
@@ -23,5 +23,5 @@
         "url": "https://github.com/2001mariana/pink-theme"
     },
     "publisher": "MarianaLuiza",
-    "keywords": ["pink", "theme", "colors", "purple", "world", "cute", "dark theme", "pink theme", "pink world", "dark pink", "dark", "Pink World Theme"]
+    "keywords": ["pink", "theme", "colors", "purple", "world", "cute", "dark theme", "pink theme", "pink world", "dark pink", "dark"]
 }
