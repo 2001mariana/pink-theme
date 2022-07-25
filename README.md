@@ -1,1 +1,2 @@
-Este tema foi criado para pessoas que são apaixonadas por rosa, é meio dark.
+A theme for peoples love pink or purple, is dark and good contrat of colors. 
+
